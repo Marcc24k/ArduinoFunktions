@@ -19,7 +19,7 @@ Assuming you are familiar with the arduino board layout and 8x8 LED matrix layou
       
                                               Conncecting the four Matrix's together.
                                               
-                  Board-1-------------> board-2 -----------> board-3 ----------> board-4
+                  Matrix-1-------------> Matrix-2 -----------> Matrix-3 ----------> Matrix-4
                   
                 VCC ----------------> VCC ---------------> VCC ------------> VCC
                 
